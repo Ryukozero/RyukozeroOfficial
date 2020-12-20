@@ -30,7 +30,7 @@ Siapin alat dan bahannya.
 
 ## Features
 
-| Naga-Bot🤖  |                   Feature        |
+| Ryuko-Bot 🤖  |                   Feature        |
 | :-----------: | :------------------------------: |
 |       ✅       | Sticker Creator                  |
 |       ✅       | Nulis                           |
